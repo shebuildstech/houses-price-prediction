@@ -11,11 +11,11 @@ En esta tarea, deberá analizar y predecir los precios de viviendas utilizando a
 
 #### Notas: 
 - La descripción de este proyecto la he construido yo, para darle un mejor contexto.
-- Este proyecto forma parte del curso [Análisis de datos con Python](https://es.coursera.org/learn/analisis-de-datos-con-python) dictado por IBM y coursera el cual finalicé en el mes de enero del 2022.
+- Este conjunto de datos forma parte del curso [Análisis de datos con Python](https://es.coursera.org/learn/analisis-de-datos-con-python) dictado por IBM y coursera el cual finalicé en el mes de enero del 2022.
 
 ---
 
-## Descripción de los datos
+### Descripción de los datos
 | Variable | Descripción
 :--- |:--- 
 id | Anotación para la casa

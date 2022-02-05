@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://i.pinimg.com/564x/24/69/b5/2469b56b7e330f122f1f165caf0d6d5f.jpg" />
 
 
-### 💡 El escenario
+### 💡 Caso de estudio
 Ana y su familia viven en el Condado de King y se mudarán a San Francisco pronto. Sin embargo, los padres de Ana han decidido no viajar hasta vender la casa, el problema es que no saben por cuál precio venderla. Ana quiere irse pronto a San Franciso así que debe buscar la forma de ayudarle a sus padres a decidir el precio. 
 
 Después de buscar en internet, encontró un conjunto de datos que contiene los precios de las casas vendidas en el último año (mayo de 2014 a mayo de 2015).
